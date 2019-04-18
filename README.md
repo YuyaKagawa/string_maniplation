@@ -39,4 +39,4 @@ execute all cells in insert/insert.ipynb
 <img  src=alternate/results_alternate.png width=400>
 
 ## insert
-<img  src=insert/results_insert.png width=400>
+<img  src=insert/results_insert.png width=800>
