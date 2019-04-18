@@ -23,20 +23,20 @@ library : re 2.2.1
 
 # Usage
 ## alternate
-`$ python3 alternate.py` in command line
+`$ python3 alternate/alternate.py` in command line
 
 or
-execute all cells in alternate.ipynb
+execute all cells in alternate/alternate.ipynb
 
 ## insert
-`$ python3 insert.py` in command line
+`$ python3 insert/insert.py` in command line
 
 or
-execute all cells in insert.ipynb
+execute all cells in insert/insert.ipynb
 
 # Results
 ## alternate
-<img  src=results_alternate.png width=200>
+<img  src=alternate/results_alternate.png width=400>
 
 ## insert
-<img  src=results_insert.png width=200>
+<img  src=insert/results_insert.png width=400>
