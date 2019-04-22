@@ -36,7 +36,7 @@ execute all cells in insert/insert.ipynb
 
 # Results
 ## alternate
-<img  src=alternate/results_alternate.png width=300>
+<img  src=alternate/results_alternate.png width=350>
 
 ## insert
 <img  src=insert/results_insert.png width=800>
